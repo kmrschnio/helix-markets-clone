@@ -1,6 +1,1 @@
-{
-  "/page": "app/page.js",
-  "/markets/page": "app/markets/page.js",
-  "/trading-bots/page": "app/trading-bots/page.js",
-  "/spot/[slug]/page": "app/spot/[slug]/page.js"
-}
+{}
